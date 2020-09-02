@@ -1,21 +1,10 @@
 # Pokedex
 
-**TODO: Add description**
+Client app. Makes gRPC requests to pokemon repo app.
 
-## Installation
+Start iex session with `iex -S mix`.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pokedex` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:pokedex, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/pokedex](https://hexdocs.pm/pokedex).
+Related repos:
+* [Pokemon Repo](https://github.com/castengo/elixirconf_pokemon_repo)
+* [Pokemon Proto](https://github.com/castengo/elixirconf_pokemon_proto)
 
